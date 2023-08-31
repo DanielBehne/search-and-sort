@@ -10,43 +10,58 @@ import java.util.Arrays;
  */
 public class Merge
 {
-  
-  /**
-   * Returns the sorted array
-   */
-  public static int[] sort(int[] arr) {
-    // Your algorithm goes here!
-    int inputLength = arr.length;
-    if (inputLength < 2) {
+
+    /**
+     * Returns the sorted array
+     */
+    public static int[] sort(int[] arr) {
+        // Your algorithm goes here!
+        int n = arr.length;
+        int middle = n/2;
+        int leftLength = middle;
+        int rightLength = n - leftLength;
+        int index = 0;
+        for (int i = 0; i < middle; i++) {
+            if (index < middle) {
+                left[index] = arr[index];
+                index++;
+            } else {
+                int rightIndex = 0;
+                index = middle;
+                if (index < n) {
+                    right[rightIndex] = arr[index];
+                    rightIndex++;
+                    index++;
+                } else {
+                    sort(left);
+                    sort(right);
+                    Merge(arr,left,right);
+                }
+            }
+        }
         return arr;
     }
-    int midIndex = inputLength / 2;
-    int[] left = new int[midIndex];
-    int[] right = new int[inputLength - midIndex];
-    for (int i = 0; i < midIndex; i++) {
-        //8:35
+
+    public static void main(String[] args) {
+        int[] arr = {53,85,93,25,39,27,42,5,24,45,33,51,5,80,4,7,91,
+                31,66,71,32,19,79,58,61,82,89,63,7,4,50,10,48,24,75,19,22,
+                73,54,51,25,33,20,52,79,97,70,54,63,49};    
+
+        // Test the sort
+        testSort(sort(arr));
     }
-    return arr;
-  }
-  
-  public static void main(String[] args) {
-    int[] arr = {53,85,93,25,39,27,42,5,24,45,33,51,5,80,4,7,91,
-      31,66,71,32,19,79,58,61,82,89,63,7,4,50,10,48,24,75,19,22,
-      73,54,51,25,33,20,52,79,97,70,54,63,49};    
-    
-    // Test the sort
-    testSort(sort(arr));
-  }
-  
-  public static void testSort(int[] arr) {
-    for (int i=0; i<arr.length-1; i++) {
-      if (arr[i] > arr[i+1]) {
-        System.out.println("FAIL at index "+i);
-        System.out.println(Arrays.toString(arr));
-        return;
-      }
+
+    public static void testSort(int[] arr) {
+        for (int i=0; i<arr.length-1; i++) {
+            if (arr[i] > arr[i+1]) {
+                System.out.println("FAIL at index "+i);
+                System.out.println(Arrays.toString(arr));
+                return;
+            }
+        }
+        System.out.println("SUCCESS!");
     }
-    System.out.println("SUCCESS!");
-  }
 
 }
+
+
