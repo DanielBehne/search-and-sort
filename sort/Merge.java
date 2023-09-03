@@ -18,27 +18,12 @@ public class Merge
         // Your algorithm goes here!
         int n = arr.length;
         int middle = n/2;
-        int leftLength = middle;
-        int rightLength = n - leftLength;
-        int index = 0;
-        for (int i = 0; i < middle; i++) {
-            if (index < middle) {
-                left[index] = arr[index];
-                index++;
-            } else {
-                int rightIndex = 0;
-                index = middle;
-                if (index < n) {
-                    right[rightIndex] = arr[index];
-                    rightIndex++;
-                    index++;
-                } else {
-                    sort(left);
-                    sort(right);
-                    Merge(arr,left,right);
-                }
-            }
-        }
+        int left = middle;
+        int right = n - left;
+        int i = 0;
+        do {
+            n = n/2;
+        } while (n > 1);
         return arr;
     }
 
