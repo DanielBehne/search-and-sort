@@ -2,7 +2,6 @@ package search;
 import sort.Insertion;
 public class Binary
 {
-
     /**
      * Returns the index of the target value, or -1 if not found
      */
@@ -11,21 +10,25 @@ public class Binary
         // Note... I know that the standard Java Arrays class has a method called
         // binarySearch.  If you use it for testing, but you need to implement the algorithm
         // to get the point!
-        
+
         int n = arr.length;
         int left = 0;
-        int mid = n/2;
-        int right = n;
-        while (target != mid) {
-            if (target > left && target < mid) {
-                right = mid;
+        int right = n - 1;
+        int mid = 10000000; // placeholder
+        while (left <= right && right < n && left > 0) {
+            mid = (left + right) / 2;
+            if (arr[mid] == target) {
+                return mid;
+            } else if (target < 0) {
+                mid = -1;
+            } else if (target > arr[left] && target < arr[mid]) {
+                right = mid - 1;
                 mid = (left + right) / 2;
-            } else if (target > mid && target < right) {
-                    left = mid;
-                    mid = (left + right) / 2;
+            } else if (target > arr[mid] && target < arr[right]) {
+                left = mid + 1;
+                mid = (left + right) / 2;
             }
         }
-
         return mid;
     }
 
