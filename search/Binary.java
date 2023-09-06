@@ -15,18 +15,19 @@ public class Binary
         int left = 0;
         int right = n - 1;
         int mid = 10000000; // placeholder
-        while (left <= right && right < n && left > 0) {
+        if (target < 0) {
+            mid = -1;
+        } 
+        while (left <= right) {
             mid = (left + right) / 2;
             if (arr[mid] == target) {
                 return mid;
-            } else if (target < 0) {
-                mid = -1;
-            } else if (target > arr[left] && target < arr[mid]) {
-                right = mid - 1;
-                mid = (left + right) / 2;
-            } else if (target > arr[mid] && target < arr[right]) {
+            } else if (arr[mid] < target) {
                 left = mid + 1;
-                mid = (left + right) / 2;
+ 
+            } else {
+                right = mid - 1;
+                
             }
         }
         return mid;
