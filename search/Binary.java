@@ -22,12 +22,7 @@ public class Binary
             } else {
                 left = mid + 1;
             }
-            if (target == 82) {
-                return mid = 44;
-            }
-            if (target == 49) {
-                return mid = 24;
-            }
+            
         }
         return -1;
     }

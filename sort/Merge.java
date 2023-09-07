@@ -16,14 +16,24 @@ public class Merge
      */
     public static int[] sort(int[] arr) {
         // Your algorithm goes here!
-        int n = arr.length;
-        int middle = n/2;
-        int left = middle;
-        int right = n - left;
-        int i = 0;
-        do {
-            n = n/2;
-        } while (n > 1);
+        if (arr.length < 2) {
+            return arr;
+        }
+        
+        int mid = arr.length/2;
+        int left[] = new int[mid];
+        int right[] = new int[arr.length - mid];
+        
+        for (int i = 0; i < mid; i++) {
+            left[i] = arr[i];
+        }
+        for (int i = mid; i < arr.length; i++) {
+            right[i - mid] = arr[i];
+        }
+        
+        int leftLength = left.length;
+        int rightLength = right.length;
+         //13:20
         return arr;
     }
 
