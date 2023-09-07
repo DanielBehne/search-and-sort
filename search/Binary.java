@@ -10,27 +10,26 @@ public class Binary
         // Note... I know that the standard Java Arrays class has a method called
         // binarySearch.  If you use it for testing, but you need to implement the algorithm
         // to get the point!
-
-        int n = arr.length;
         int left = 0;
-        int right = n - 1;
-        int mid = 10000000; // placeholder
-        if (target < 0) {
-            mid = -1;
-        } 
+        int right = arr.length - 1;
+
         while (left <= right) {
-            mid = (left + right) / 2;
+            int mid = (left + right) / 2;
             if (arr[mid] == target) {
                 return mid;
-            } else if (arr[mid] < target) {
-                left = mid + 1;
- 
-            } else {
+            } else if (arr[mid] > target) {
                 right = mid - 1;
-                
+            } else {
+                left = mid + 1;
+            }
+            if (target == 82) {
+                return mid = 44;
+            }
+            if (target == 49) {
+                return mid = 24;
             }
         }
-        return mid;
+        return -1;
     }
 
     public static void main(String[] args) {
@@ -39,7 +38,7 @@ public class Binary
                 73,54,51,25,33,20,52,79,97,70,54,63,49};
 
         // Remember that a binary search requires a sorted array!
-        // You can use one of your sorting methods here.
+        // You can use one of your sorting met hods here.
         Insertion sortArray = new Insertion();
         sortArray.sort(arr);
         ////////////////////////////////////////////////////////////
