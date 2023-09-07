@@ -16,27 +16,46 @@ public class Merge
      */
     public static int[] sort(int[] arr) {
         // Your algorithm goes here!
-        if (arr.length < 2) {
+        if (arr.length <= 1) {
             return arr;
         }
         
         int mid = arr.length/2;
         int left[] = new int[mid];
         int right[] = new int[arr.length - mid];
-        
         for (int i = 0; i < mid; i++) {
             left[i] = arr[i];
         }
         for (int i = mid; i < arr.length; i++) {
-            right[i - mid] = arr[i];
+            right[i-mid] = arr[i];
         }
         
-        int leftLength = left.length;
-        int rightLength = right.length;
-         //13:20
+        sort(left);
+        sort(right);
+        
+        int leftIndex = 0;
+        int rightIndex = 0;
+        int mergeIndex = 0;
+        while (leftIndex < left.length && rightIndex < right.length) {
+            if (left[leftIndex] <= right[rightIndex]) {
+                arr[mergeIndex++] = left[leftIndex++];
+            } else {
+                arr[mergeIndex++] = right[rightIndex++];
+            }
+        }
+        
+        while (leftIndex < left.length) {
+            arr[mergeIndex++] = left[leftIndex++];
+        }
+        while (rightIndex < right.length) {
+            arr[mergeIndex++] = right[rightIndex++];
+        }
+        
         return arr;
     }
 
+    
+    
     public static void main(String[] args) {
         int[] arr = {53,85,93,25,39,27,42,5,24,45,33,51,5,80,4,7,91,
                 31,66,71,32,19,79,58,61,82,89,63,7,4,50,10,48,24,75,19,22,
