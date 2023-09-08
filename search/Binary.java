@@ -1,5 +1,5 @@
 package search;
-import sort.Insertion;
+import sort.Selection;
 public class Binary
 {
     /**
@@ -34,7 +34,7 @@ public class Binary
 
         // Remember that a binary search requires a sorted array!
         // You can use one of your sorting met hods here.
-        Insertion sortArray = new Insertion();
+        Selection sortArray = new Selection();
         sortArray.sort(arr);
         ////////////////////////////////////////////////////////////
         // Do not change anything below this line!!
