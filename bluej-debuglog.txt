@@ -1,0 +1,419 @@
+BlueJ run started: Fri Sep 08 18:02:21 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\danb1\bluej\search-and-sort
+1694221378400: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+java.io.FileNotFoundException while reading import cache: C:\Users\danb1\bluej\import-cache.xml (The system cannot find the file specified)
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Fri Sep 08 18:24:23 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\search-and-sort
+1694222665206: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Sat Sep 09 08:34:55 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\search-and-sort
+1694273696862: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Sat Sep 09 09:06:46 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\search-and-sort
+1694275607785: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Mon Sep 11 09:00:09 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\search-and-sort
+1694448011192: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Mon Sep 11 15:05:12 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\search-and-sort
+1694469913796: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Thu Sep 14 20:01:01 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\search-and-sort
+1694746861926: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Thu Sep 21 17:06:26 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\search-and-sort
+1695341187567: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Thu Sep 21 17:10:12 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\search-and-sort
+1695341413002: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Opening project: C:\Users\danb1\bluej\war-template
+1695341419206: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Fri Sep 22 18:33:11 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\Daniel_Derek_War
+1695432806123: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Sat Sep 23 17:17:01 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\Daniel_Derek_War
+1695514623468: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Sun Sep 24 13:37:28 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\Daniel_Derek_War
+1695587849391: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Mon Sep 25 17:22:38 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\Daniel_Derek_War
+1695687758990: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Tue Sep 26 17:31:21 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\Daniel_Derek_War
+1695774682538: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Wed Sep 27 16:23:35 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\Daniel_Derek_War
+1695857016381: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Wed Sep 27 17:25:21 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\Daniel_Derek_War
+1695860721813: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Fri Sep 29 19:58:33 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\Daniel_Derek_War
+1696042714066: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+BlueJ run started: Sat Sep 30 13:24:30 PDT 2023
+BlueJ version 5.2.0
+Java version 17.0.4.1
+JavaFX version 20.0.1+2
+Virtual machine: OpenJDK 64-Bit Server VM 17.0.4.1+1 (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Program Files\BlueJ\jdk
+----
+Opening project: C:\Users\danb1\bluej\Daniel_Derek_War
+1696105471244: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Error or exception for source not in project: C:\Users\danb1\bluej\Daniel_Derek_War\Preconditions.java, line 64: java.lang.IndexOutOfBoundsException:
+Index 0 out of bounds for length 0
+Error or exception for source not in project: C:\Users\danb1\bluej\Daniel_Derek_War\Preconditions.java, line 70: java.lang.IndexOutOfBoundsException:
+Index 0 out of bounds for length 0 (in jdk.internal.util.Preconditions)
+Error or exception for source not in project: C:\Users\danb1\bluej\Daniel_Derek_War\Preconditions.java, line 266: java.lang.IndexOutOfBoundsException:
+Index 0 out of bounds for length 0 (in jdk.internal.util.Preconditions)
+Error or exception for source not in project: C:\Users\danb1\bluej\Daniel_Derek_War\Objects.java, line 359: java.lang.IndexOutOfBoundsException:
+Index 0 out of bounds for length 0 (in jdk.internal.util.Preconditions)
+Error or exception for source not in project: C:\Users\danb1\bluej\Daniel_Derek_War\ArrayList.java, line 427: java.lang.IndexOutOfBoundsException:
+Index 0 out of bounds for length 0 (in jdk.internal.util.Preconditions)
+Could not run EventHandlerRunnable as VM not initialised; call stack:
+  bluej.debugger.jdi.JdiDebugger.runOnEventHandler(JdiDebugger.java:1314)
+  bluej.debugmgr.ExecControls.lambda$createWindowContent$17(ExecControls.java:585)
+  bluej.utility.javafx.JavaFXUtil.lambda$addChangeListenerPlatform$29(JavaFXUtil.java:1555)
+  com.sun.javafx.binding.ExpressionHelper$Generic.fireValueChangedEvent(ExpressionHelper.java:360)
+  com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:80)
+  javafx.beans.property.ReadOnlyIntegerPropertyBase.fireValueChangedEvent(ReadOnlyIntegerPropertyBase.java:78)
+  javafx.beans.property.ReadOnlyIntegerWrapper.fireValueChangedEvent(ReadOnlyIntegerWrapper.java:102)
+  javafx.beans.property.IntegerPropertyBase.markInvalid(IntegerPropertyBase.java:114)
+  javafx.beans.property.IntegerPropertyBase.set(IntegerPropertyBase.java:148)
+  javafx.scene.control.SelectionModel.setSelectedIndex(SelectionModel.java:69)
+  javafx.scene.control.MultipleSelectionModelBase.clearSelection(MultipleSelectionModelBase.java:574)
+  javafx.scene.control.ListView$ListViewBitSetSelectionModel$2.onChanged(ListView.java:1309)
+  javafx.collections.WeakListChangeListener.onChanged(WeakListChangeListener.java:88)
+  com.sun.javafx.collections.ListListenerHelper$Generic.fireValueChangedEvent(ListListenerHelper.java:327)
+  com.sun.javafx.collections.ListListenerHelper.fireValueChangedEvent(ListListenerHelper.java:71)
+  javafx.collections.ObservableListBase.fireChange(ObservableListBase.java:238)
+  javafx.collections.ListChangeBuilder.commit(ListChangeBuilder.java:482)
+  javafx.collections.ListChangeBuilder.endChange(ListChangeBuilder.java:541)
+  javafx.collections.ObservableListBase.endChange(ObservableListBase.java:210)
+  com.sun.javafx.collections.ObservableListWrapper.clear(ObservableListWrapper.java:156)
+  bluej.debugmgr.ExecControls.selectedThreadChanged(ExecControls.java:349)
+  bluej.debugmgr.ExecControls.lambda$createWindowContent$19(ExecControls.java:604)
+  bluej.utility.javafx.JavaFXUtil.lambda$addChangeListenerPlatform$29(JavaFXUtil.java:1555)
+  com.sun.javafx.binding.ExpressionHelper$Generic.fireValueChangedEvent(ExpressionHelper.java:360)
+  com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:80)
+  javafx.beans.property.ReadOnlyObjectPropertyBase.fireValueChangedEvent(ReadOnlyObjectPropertyBase.java:80)
+  javafx.beans.property.ReadOnlyObjectWrapper.fireValueChangedEvent(ReadOnlyObjectWrapper.java:102)
+  javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:113)
+  javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:147)
+  javafx.scene.control.SelectionModel.setSelectedItem(SelectionModel.java:105)
+  javafx.scene.control.ComboBox$ComboBoxSelectionModel.lambda$new$0(ComboBox.java:562)
+  com.sun.javafx.binding.ExpressionHelper$SingleInvalidation.fireValueChangedEvent(ExpressionHelper.java:136)
+  com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:80)
+  javafx.beans.property.ReadOnlyIntegerPropertyBase.fireValueChangedEvent(ReadOnlyIntegerPropertyBase.java:78)
+  javafx.beans.property.ReadOnlyIntegerWrapper.fireValueChangedEvent(ReadOnlyIntegerWrapper.java:102)
+  javafx.beans.property.IntegerPropertyBase.markInvalid(IntegerPropertyBase.java:114)
+  javafx.beans.property.IntegerPropertyBase.set(IntegerPropertyBase.java:148)
+  javafx.scene.control.SelectionModel.setSelectedIndex(SelectionModel.java:69)
+  javafx.scene.control.ComboBox$ComboBoxSelectionModel$2.onChanged(ComboBox.java:593)
+  javafx.collections.WeakListChangeListener.onChanged(WeakListChangeListener.java:88)
+  com.sun.javafx.collections.ListListenerHelper$Generic.fireValueChangedEvent(ListListenerHelper.java:327)
+  com.sun.javafx.collections.ListListenerHelper.fireValueChangedEvent(ListListenerHelper.java:71)
+  javafx.collections.ObservableListBase.fireChange(ObservableListBase.java:238)
+  javafx.collections.ListChangeBuilder.commit(ListChangeBuilder.java:482)
+  javafx.collections.ListChangeBuilder.endChange(ListChangeBuilder.java:541)
+  javafx.collections.ObservableListBase.endChange(ObservableListBase.java:210)
+  javafx.collections.transformation.FilteredList.sourceChanged(FilteredList.java:147)
+  javafx.collections.transformation.TransformationList.lambda$getListener$0(TransformationList.java:105)
+  javafx.collections.WeakListChangeListener.onChanged(WeakListChangeListener.java:88)
+  com.sun.javafx.collections.ListListenerHelper$SingleChange.fireValueChangedEvent(ListListenerHelper.java:162)
+  com.sun.javafx.collections.ListListenerHelper.fireValueChangedEvent(ListListenerHelper.java:71)
+  javafx.collections.ObservableListBase.fireChange(ObservableListBase.java:238)
+  javafx.collections.ListChangeBuilder.commit(ListChangeBuilder.java:482)
+  javafx.collections.ListChangeBuilder.endChange(ListChangeBuilder.java:541)
+  javafx.collections.ObservableListBase.endChange(ObservableListBase.java:210)
+  com.sun.javafx.collections.ObservableListWrapper.clear(ObservableListWrapper.java:156)
+  bluej.pkgmgr.Project.lambda$clearThreads$18(Project.java:2611)
+  com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+  java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+  com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+  com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+  com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+  com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+  java.base/java.lang.Thread.run(Thread.java:833)
+1696115226661: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+1696115265956: Listening for JDWP connection on address: javadebug
+Could not run EventHandlerRunnable as VM not initialised; call stack:
+  bluej.debugger.jdi.JdiDebugger.runOnEventHandler(JdiDebugger.java:1314)
+  bluej.debugmgr.ExecControls.lambda$createWindowContent$17(ExecControls.java:585)
+  bluej.utility.javafx.JavaFXUtil.lambda$addChangeListenerPlatform$29(JavaFXUtil.java:1555)
+  com.sun.javafx.binding.ExpressionHelper$Generic.fireValueChangedEvent(ExpressionHelper.java:360)
+  com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:80)
+  javafx.beans.property.ReadOnlyIntegerPropertyBase.fireValueChangedEvent(ReadOnlyIntegerPropertyBase.java:78)
+  javafx.beans.property.ReadOnlyIntegerWrapper.fireValueChangedEvent(ReadOnlyIntegerWrapper.java:102)
+  javafx.beans.property.IntegerPropertyBase.markInvalid(IntegerPropertyBase.java:114)
+  javafx.beans.property.IntegerPropertyBase.set(IntegerPropertyBase.java:148)
+  javafx.scene.control.SelectionModel.setSelectedIndex(SelectionModel.java:69)
+  javafx.scene.control.MultipleSelectionModelBase.clearSelection(MultipleSelectionModelBase.java:574)
+  javafx.scene.control.ListView$ListViewBitSetSelectionModel$2.onChanged(ListView.java:1309)
+  javafx.collections.WeakListChangeListener.onChanged(WeakListChangeListener.java:88)
+  com.sun.javafx.collections.ListListenerHelper$Generic.fireValueChangedEvent(ListListenerHelper.java:327)
+  com.sun.javafx.collections.ListListenerHelper.fireValueChangedEvent(ListListenerHelper.java:71)
+  javafx.collections.ObservableListBase.fireChange(ObservableListBase.java:238)
+  javafx.collections.ListChangeBuilder.commit(ListChangeBuilder.java:482)
+  javafx.collections.ListChangeBuilder.endChange(ListChangeBuilder.java:541)
+  javafx.collections.ObservableListBase.endChange(ObservableListBase.java:210)
+  com.sun.javafx.collections.ObservableListWrapper.clear(ObservableListWrapper.java:156)
+  bluej.debugmgr.ExecControls.selectedThreadChanged(ExecControls.java:349)
+  bluej.debugmgr.ExecControls.lambda$createWindowContent$19(ExecControls.java:604)
+  bluej.utility.javafx.JavaFXUtil.lambda$addChangeListenerPlatform$29(JavaFXUtil.java:1555)
+  com.sun.javafx.binding.ExpressionHelper$Generic.fireValueChangedEvent(ExpressionHelper.java:360)
+  com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:80)
+  javafx.beans.property.ReadOnlyObjectPropertyBase.fireValueChangedEvent(ReadOnlyObjectPropertyBase.java:80)
+  javafx.beans.property.ReadOnlyObjectWrapper.fireValueChangedEvent(ReadOnlyObjectWrapper.java:102)
+  javafx.beans.property.ObjectPropertyBase.markInvalid(ObjectPropertyBase.java:113)
+  javafx.beans.property.ObjectPropertyBase.set(ObjectPropertyBase.java:147)
+  javafx.scene.control.SelectionModel.setSelectedItem(SelectionModel.java:105)
+  javafx.scene.control.ComboBox$ComboBoxSelectionModel.lambda$new$0(ComboBox.java:562)
+  com.sun.javafx.binding.ExpressionHelper$SingleInvalidation.fireValueChangedEvent(ExpressionHelper.java:136)
+  com.sun.javafx.binding.ExpressionHelper.fireValueChangedEvent(ExpressionHelper.java:80)
+  javafx.beans.property.ReadOnlyIntegerPropertyBase.fireValueChangedEvent(ReadOnlyIntegerPropertyBase.java:78)
+  javafx.beans.property.ReadOnlyIntegerWrapper.fireValueChangedEvent(ReadOnlyIntegerWrapper.java:102)
+  javafx.beans.property.IntegerPropertyBase.markInvalid(IntegerPropertyBase.java:114)
+  javafx.beans.property.IntegerPropertyBase.set(IntegerPropertyBase.java:148)
+  javafx.scene.control.SelectionModel.setSelectedIndex(SelectionModel.java:69)
+  javafx.scene.control.ComboBox$ComboBoxSelectionModel$2.onChanged(ComboBox.java:593)
+  javafx.collections.WeakListChangeListener.onChanged(WeakListChangeListener.java:88)
+  com.sun.javafx.collections.ListListenerHelper$Generic.fireValueChangedEvent(ListListenerHelper.java:327)
+  com.sun.javafx.collections.ListListenerHelper.fireValueChangedEvent(ListListenerHelper.java:71)
+  javafx.collections.ObservableListBase.fireChange(ObservableListBase.java:238)
+  javafx.collections.ListChangeBuilder.commit(ListChangeBuilder.java:482)
+  javafx.collections.ListChangeBuilder.endChange(ListChangeBuilder.java:541)
+  javafx.collections.ObservableListBase.endChange(ObservableListBase.java:210)
+  javafx.collections.transformation.FilteredList.sourceChanged(FilteredList.java:147)
+  javafx.collections.transformation.TransformationList.lambda$getListener$0(TransformationList.java:105)
+  javafx.collections.WeakListChangeListener.onChanged(WeakListChangeListener.java:88)
+  com.sun.javafx.collections.ListListenerHelper$SingleChange.fireValueChangedEvent(ListListenerHelper.java:162)
+  com.sun.javafx.collections.ListListenerHelper.fireValueChangedEvent(ListListenerHelper.java:71)
+  javafx.collections.ObservableListBase.fireChange(ObservableListBase.java:238)
+  javafx.collections.ListChangeBuilder.commit(ListChangeBuilder.java:482)
+  javafx.collections.ListChangeBuilder.endChange(ListChangeBuilder.java:541)
+  javafx.collections.ObservableListBase.endChange(ObservableListBase.java:210)
+  com.sun.javafx.collections.ObservableListWrapper.clear(ObservableListWrapper.java:156)
+  bluej.pkgmgr.Project.lambda$clearThreads$18(Project.java:2611)
+  com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+  java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+  com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+  com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+  com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+  com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+  java.base/java.lang.Thread.run(Thread.java:833)
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
